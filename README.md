@@ -1,6 +1,7 @@
-<h1>>EULER HERE BROW!</h1>
 
-<h1> Aprendendo Django 🐍  </h1>
+<h1> Aprendendo Django 🐍  🧿 </h1>
+<p>🧿 Esse é um "projetinho" simples, EULER BORGES DA MOTTA 🧿 </p>
+
 <p> Esse projeto é uma evolução da agenda que fiz em outro projeto </p>
 <br>
 <h2> Como rodar esse projeto ? </h2><br>
